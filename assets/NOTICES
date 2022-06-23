@@ -5170,8 +5170,6 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 charcode
-pool
-shelf_web_socket
 stack_trace
 string_scanner
 
@@ -6177,8 +6175,8 @@ http
 http_parser
 matcher
 path
+pool
 pub_semver
-shelf
 source_span
 watcher
 
@@ -7332,6 +7330,8 @@ firebase_core_web
 --------------------------------------------------------------------------------
 fixnum
 http_multi_server
+shelf
+shelf_web_socket
 
 Copyright 2014, the Dart project authors.
 
